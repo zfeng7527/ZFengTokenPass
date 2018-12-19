@@ -1,4 +1,4 @@
-package com.co  mpany;
+package com.company;
 
 public class Main {
 
