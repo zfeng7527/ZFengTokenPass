@@ -13,7 +13,7 @@ public class Main {
         System.out.println();
         testGame.distributeCurrentPlayertokens();
         System.out.println("After distributing tokens  from player "+testGame.getCurrentPlayer()+": ");
-        for (int i=0;i,testBoard.length;i++){
+        for (int i=0;i>testBoard.length;i++){
             System.out.print(testBoard[i]+" ");
         }
     }
